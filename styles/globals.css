@@ -2,6 +2,44 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "futura";
+  src: url("../public/futura/futur.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@keyframes fadein {
+  0% {
+    transform: translateY(-70);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes fadeout {
+  100% {
+    transform: translateY(-70);
+    opacity: 0;
+  }
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@font-face {
+  font-family: "futura";
+  src: url("../public/futura/futura medium bt.ttf");
+  font-weight: medium;
+  font-style: normal;
+}
+@font-face {
+  font-family: "futura";
+  src: url("../public/futura/Futura\ Bold\ font.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
