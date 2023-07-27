@@ -1,8 +1,6 @@
 # ✨ Ableton (About) Frontend Clone
 
-Long Screenshot
-
-![[/public/mockup.png]]
+ Next.Js Frontend Project built inpiring Ableton About page
 
 # Author
 
@@ -15,7 +13,7 @@ Long Screenshot
 
 # Demo
 
-Check out the [Live Demo](ableton-about-frontend-clone.netlify.app)
+Check out the [Live Demo](https://ableton-about-frontend-clone.netlify.app/)
 
 # Contributions
 
@@ -25,6 +23,10 @@ Contributions are always welcome
 
 If you have any feedback, please reach out to me at [ajayaditya2k6@gmail.com](ajayaditya2k6@gmail.com)
 
+# Long Screenshot
+
+![mockup](public/mockup.png)
+
 # Inspiration
 
 Built inspiring [Ableton About](https://www.ableton.com/en/about/)
@@ -32,7 +34,3 @@ Built inspiring [Ableton About](https://www.ableton.com/en/about/)
 # License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
-# ableton-about-page-frontend-clone
-# ableton-about-page-frontend-clone
-# ableton-about-frontend-clone
-# ableton-about-frontend-clone
