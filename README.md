@@ -25,7 +25,7 @@ If you have any feedback, please reach out to me at [ajayaditya2k6@gmail.com](aj
 
 # Long Screenshot
 
-![mockup](public/mockup.png)
+![mockup](https://github.com/Ajayaditya06/ableton-about-frontend-clone/assets/133016547/1e5e0e5a-7270-423b-9244-8a009f7105c5)
 
 # Inspiration
 
